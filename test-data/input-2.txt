@@ -1,0 +1,4 @@
+#elso lovesnel masodlagos tarolobol lo
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
