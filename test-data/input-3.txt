@@ -1,0 +1,3 @@
+#ha az elsodleges ures, akkor a masodlagosbol lo
+GT4500,0,0,10,0
+TORPEDO,SINGLE
